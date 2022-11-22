@@ -1,4 +1,4 @@
-from major_minor_colors_var import MAJOR_COLORS, MINOR_COLORS
+from classification_colors import MAJOR_COLORS, MINOR_COLORS
 
 def get_color_code_manual():
     color_code_pair_list = []
