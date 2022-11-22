@@ -1,4 +1,4 @@
-from verify_num import verify_number
+from verify_num import verify_num
 from verify_color import verify_color
 from colour_referenceM import print_manual
 
