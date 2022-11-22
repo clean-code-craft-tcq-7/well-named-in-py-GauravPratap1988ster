@@ -1,4 +1,4 @@
-from major_minor_colors_var import MAJOR_COLORS, MINOR_COLORS
+from classification_colours import MAJOR_COLORS, MINOR_COLORS
 
 def get_color_from_pair_number(pair_number):
   zero_based_pair_number = pair_number - 1
