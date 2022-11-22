@@ -1,4 +1,4 @@
-from major_minor_colors_var import MAJOR_COLORS, MINOR_COLORS
+from classification_colours import MAJOR_COLORS, MINOR_COLORS
 
 def get_pair_number_from_color(major_color, minor_color):
   try:
